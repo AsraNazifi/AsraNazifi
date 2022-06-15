@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AsraNazifi
 - 👀 I’m interested in Android 
 - 🌱 I’m currently learning java
-- 📫 You can follow me in Instagram and This is my Id: @Asra.Nazifi
+- 📫 You can follow me in Instagram and This is my Id: @Asrazii
 
 <!---
 AsraNazifi/AsraNazifi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
